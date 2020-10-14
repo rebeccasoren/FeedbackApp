@@ -1,4 +1,4 @@
-# Node With React
+# Feedback Collection Application using Nodejs with React
 
 [Emaily App](https://rocky-mountain-62570.herokuapp.com/)
 
