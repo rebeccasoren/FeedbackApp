@@ -1,8 +1,6 @@
 # Node With React
 
-Original Repository [here](https://github.com/StephenGrider/FullstackReactCode)
-
-Repository for **Emaily** project @[Udemy course](https://www.udemy.com/course/node-with-react-fullstack-web-development/) with modifications listed below
+[Emaily App](https://rocky-mountain-62570.herokuapp.com/)
 
 ## Modifications
 * Uses [Mailgun](https://documentation.mailgun.com/en/latest/) instead of [SendGrid](https://sendgrid.com/docs/)
